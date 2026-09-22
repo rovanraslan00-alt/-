@@ -1,0 +1,6 @@
+{
+  "name": "كن سفيرًا للاستدامة - كلية الفنون التطبيقية",
+  "description": "المنصة التفاعلية لطلاب كلية الفنون التطبيقية لنشر الاستدامة، حساب البصمة الكربونية، إدارة مخلفات الورش والخامات، وتحديات السفير.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
